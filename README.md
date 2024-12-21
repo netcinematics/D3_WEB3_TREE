@@ -1,6 +1,6 @@
-# WEB3_TREASURE_MAP
+# D3_WEB3_TREE
 
-Project Link : [https://netcinematics.github.io/WEB3_TREASURE_MAP/](https://netcinematics.github.io/WEB3_TREASURE_MAP/)
+Project Link : [https://netcinematics.github.io/WEB3_TREASURE_MAP/](https://netcinematics.github.io/D3_WEB3_TREE/)
 Terminology - Taxonomy - Ontology.
 
 A study of Web3 Design topics, solution, and patterns. 
